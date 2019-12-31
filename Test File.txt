@@ -1,0 +1,8 @@
+TRABAJANDO CON UN REPOSITORIO FORKED
+Por lo general, cuando se hace Fork de un repositorio se realizan modificaciones sobre este repositorio para manipular la versión original sin causar problemas, es como tener nuestro propio ‘patio de juegos’ para poder hacer lo que deseemos con el proyecto.
+
+Pero a veces queremos hacer mejoras sobre ese proyecto y enviar nuestras mejoras al dueño original para que las implemente ó simplemente queremos seguir teniendo las actualizaciones del proyecto original.
+
+Esta vez nos enfocaremos en cómo seguir teniendo las actualizaciones del proyecto original
+
+Mediante este procedimiento podremos mantener actualizado nuestro repositorio forked desde el repositorio original, realizando los siguientes pasos:
