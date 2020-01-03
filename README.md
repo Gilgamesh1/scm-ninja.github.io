@@ -7,3 +7,9 @@ a lot og lectures are alreader submmitted
 
 ## GIT & GITHUB Training
 This is the famous and one of theBest Training Course of DevOps
+
+## GIT Comparisons
+Texto basura
+
+## Github Content
+Otro texto basura compara github con el repositorio local
