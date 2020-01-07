@@ -5,6 +5,7 @@ sdfg
 ## sdfg
 sdfgn un nivel mas
 mas texto raro aqui
+Adicionando mas texto para Git Stash
 
 ## sdfg
 sdfg se agrega un nuevo texto aqui
