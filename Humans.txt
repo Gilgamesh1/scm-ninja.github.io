@@ -16,3 +16,5 @@ Haciendo algunos cambios en local
 kjbr8437yr7043hrasd
 
 Agregando un nuevo texto a Humans antes de  rebase
+
+adicionando texto para stash
