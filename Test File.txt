@@ -5,4 +5,5 @@ Pero a veces queremos hacer mejoras sobre ese proyecto y enviar nuestras mejoras
 
 Esta vez nos enfocaremos en cómo seguir teniendo las actualizaciones del proyecto original
 
+Mas texto texxto textto
 Mediante este procedimiento podremos mantener actualizado nuestro repositorio forked desde el repositorio original, realizando los siguientes pasos:
